@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class J10{
+public class J1{
     public static void main(String[] args){
       int N=Integer.parseInt(args[0]);
 int[][] matrix1=new int[N][N]; 
